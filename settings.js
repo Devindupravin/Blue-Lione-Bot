@@ -54,18 +54,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
+global.vcardowner = ['94705754420'] //ur owner number
+global.ownername = "𝗗𝗘𝗩𝗜𝗡𝗗𝗨 𝗔𝗕𝗘𝗬𝗡𝗔𝗬𝗔𝗞𝗔" //ur owner name
+global.ytname = "YT: DEVINDU BRO" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94714188730']
-global.ownertag = '94714188730' //ur tag number
+global.owner = ['94705754420']
+global.ownertag = '94705754420' //ur tag number
 global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
+global.linkz = "https://chat.whatsapp.com/BUBKQNADNiT4hLcZVF9x83" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UCSVwrsRG1Kea9QSfSSWCKog" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
